@@ -1,0 +1,14 @@
+{
+    "name": "fathkoc/database-migration-library",
+    "description": "A PHP library for managing database migrations.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DatabaseMigrationLibrary\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
